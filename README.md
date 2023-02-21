@@ -1,4 +1,5 @@
 # ChatApp
+Fully fledged chat app using Firebase database and frontend and backend in Kotlin using Android Studio
 <img width="330" alt="Screenshot 2022-11-03 at 14 17 14" src="https://user-images.githubusercontent.com/91528690/220435276-4fd76ebe-4aef-471b-96fc-e13cef4e20ed.png">
 <img width="322" alt="Screenshot 2022-11-03 at 14 17 56" src="https://user-images.githubusercontent.com/91528690/220435280-f8d1e0a8-ebae-4082-a8da-0518e5e2189b.png">
 <img width="329" alt="Screenshot 2022-11-03 at 14 18 14" src="https://user-images.githubusercontent.com/91528690/220435283-66c31a76-81c2-4b5e-bb62-8389541d1557.png">
